@@ -3,3 +3,8 @@
 修改后再上传
 
 使用gui bash
+
+使用git gui提交
+
+使用git gui上传
+
